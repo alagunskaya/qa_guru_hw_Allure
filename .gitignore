@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+
+# Allure (результаты тестов)
+allure-results/
+allure-report/
+
+# pytest
+.pytest_cache/
+
+# Логи
+*.log
