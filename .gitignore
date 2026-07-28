@@ -12,8 +12,4 @@ allure-report/
 
 .pytest_cache/
 
-<<<<<<< HEAD
 *.log
-=======
-*.log
->>>>>>> fb490d6f5e9029743403caa5a590f12c2371da3c
